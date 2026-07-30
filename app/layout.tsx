@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
+import content from "./content.json";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Untuk Belinda Cahyani — 27 Juli",
-  description:
-    "Sebuah ucapan ulang tahun kecil yang dibuat khusus untuk Belinda Cahyani.",
+  title: content.metadata.title,
+  description: content.metadata.description,
 };
 
 export default function RootLayout({
@@ -13,8 +13,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="id">
-      <body>{children}</body>
+    <html lang={content.metadata.language}>
+      <body>
+        {children}
+      </body>
     </html>
   );
 }

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "language": "id",
+    "title": "Untuk Kita — Happy Anniversary",
+    "description": "Sebuah perjalanan kecil ke dalam lautan kenangan kita."
+  },
+  "intro": {
+    "copy": "Ada lautan kecil berisi cerita kita yang ingin kutunjukkan kepadamu.",
+    "button": "Dive into our story"
+  },
+  "hero": {
+    "eyebrow": "OUR ANNIVERSARY • FOREVER TO GO",
+    "copy": "Di dunia seluas samudra, aku tetap bersyukur karena cerita ini membawaku pulang kepadamu."
+  },
+  "note": {
+    "title": "Kalau cinta adalah lautan, aku ingin terus menyelaminya bersamamu.",
+    "copy": "Terima kasih untuk setiap hari biasa yang kamu ubah menjadi istimewa; untuk tawa, sabar, dan cara sederhana kita saling memilih lagi dan lagi."
+  },
+  "gallery": {
+    "copy": "Tidak semua momen harus sempurna untuk menjadi berharga. Kadang, cukup ada kamu, aku, dan satu hari yang ingin kita ingat lebih lama."
+  },
+  "memories": [
+    {
+      "src": "/images/new/fotbarv4.1.png",
+      "alt": "Pasangan tersenyum bersama di bawah pepohonan",
+      "caption": "Di bawah langit yang sama"
+    },
+    {
+      "src": "/images/new/fotbarv4.2.png",
+      "alt": "Pasangan menikmati momen bersama di luar ruangan",
+      "caption": "Tempat favoritku: di sisimu"
+    },
+    {
+      "src": "/images/new/fotbarv4.3.png",
+      "alt": "Potret hangat pasangan tersenyum bersama",
+      "caption": "Senyum yang selalu kupilih"
+    },
+    {
+      "src": "/images/new/fotbarv4.4.png",
+      "alt": "Pasangan berpose hangat bersama",
+      "caption": "Kita, dalam versi paling nyaman"
+    },
+    {
+      "src": "/images/new/fotbarv4.5.png",
+      "alt": "Pasangan berpose lucu dengan filter telinga kucing",
+      "caption": "Sedikit konyol, banyak bahagia"
+    },
+    {
+      "src": "/images/new/fotbarv4.6.png",
+      "alt": "Pasangan saling merangkul dan tersenyum",
+      "caption": "Selalu ingin sedekat ini"
+    }
+  ],
+  "quote": "Aku tidak butuh kisah yang sempurna. Aku hanya ingin kisah yang terus berjalan, bersamamu.",
+  "book": {
+    "hint": "OUR STORYBOOK • CLICK TO FLIP",
+    "copy": "Beberapa perasaan terlalu besar untuk satu halaman. Buka pelan-pelan—ada sedikit bagian dari hatiku di dalamnya.",
+    "letterTitle": "Terima kasih sudah menjadi rumah.",
+    "paragraphs": [
+      "Untuk semua tawa yang pecah tanpa rencana dan diam yang tetap terasa nyaman, terima kasih.",
+      "Semoga kita selalu punya keberanian untuk bertumbuh, saling mendengar, dan menemukan jalan pulang satu sama lain."
+    ],
+    "signature": "with all my heart, always ♡",
+    "promiseTitle": "Aku ingin tetap memilih kita.",
+    "promises": [
+      "Mendengar, bahkan saat hari terasa rumit.",
+      "Merayakan hal-hal kecil bersamamu.",
+      "Tumbuh tanpa kehilangan arah pulang.",
+      "Mencintaimu, lagi dan lagi."
+    ]
+  },
+  "closing": "Untuk hari-hari yang sudah kita lewati, dan semua petualangan yang masih menunggu di depan. Ini bukan akhir cerita—ini hanya halaman baru."
+}
